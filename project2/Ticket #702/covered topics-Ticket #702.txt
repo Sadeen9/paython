@@ -1,0 +1,2 @@
+1-Reading data safely with with open(...).
+2-Adding guards for missing files (os.path.exists, try/except).

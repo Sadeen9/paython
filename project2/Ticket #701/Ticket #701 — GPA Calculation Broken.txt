@@ -1,0 +1,10 @@
+Client Note:
+"GPA results are wrong. 4.3 scale not supported."
+
+class student:
+ def __init__(self,name,id,grades):
+  self.name = name
+  self.id = id
+  self.grades = grades
+ def GPA(self):
+  return sum(self.grades)/len(self.grades)

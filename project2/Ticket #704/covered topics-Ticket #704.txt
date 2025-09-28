@@ -1,0 +1,2 @@
+1-Writing student data to grades.txt.
+2-Logging file operations for an audit trail

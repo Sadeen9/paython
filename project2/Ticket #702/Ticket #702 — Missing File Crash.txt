@@ -1,0 +1,6 @@
+Client Note:
+“System crashes if grades.txt is missing.”
+
+f = open("grades.txt","r")
+data = f.read()
+print(data)

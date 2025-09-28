@@ -1,0 +1,5 @@
+1-Creating a Student class with attributes (name, id, grades).
+2-Using __init__ to initialize objects.
+3-Defining methods (gpa()) with correct snake_case.
+4-Applying PEP 8 for classes (CamelCase names, docstrings).
+5-Refactoring messy intern code into structured OOP

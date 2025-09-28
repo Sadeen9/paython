@@ -1,0 +1,5 @@
+Client Note:
+“Intern code violates standards. Impossible to maintain.”
+
+class stu: pass
+def gpA(x): return sum(x)/len(x)

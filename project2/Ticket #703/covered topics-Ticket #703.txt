@@ -1,0 +1,3 @@
+1-Using lists and showing why they fail at scale.
+2-Migrating to dicts and defaultdict for efficient lookups.
+3-Storing multiple students in structured collections.

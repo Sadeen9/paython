@@ -1,0 +1,5 @@
+Client Note:
+“No logs — we can’t see when grades are saved/loaded.”
+
+with open("grades.txt","w") as f:
+f.write("Ali, A")
